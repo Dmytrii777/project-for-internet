@@ -29,50 +29,6 @@ PhotoMix — це навчальний веб-застосунок для ред
 
 ---
 
-## Структура проєкту
-
-project-root/
-│
-├── index.php
-├── gallery.php
-├── edit.php
-├── login.php
-├── register.php
-├── confirm.php
-├── reset_password.php
-├── profile.php
-├── logout.php
-│
-├── upload.php
-├── delete_image.php
-├── like.php
-├── comment.php
-│
-├── config/
-│ ├── database.php
-│ └── setup.php
-│
-├── includes/
-│ ├── header.php
-│ ├── footer.php
-│ ├── functions.php
-│ └── auth.php
-│
-├── public/
-│ ├── css/
-│ │ └── style.css
-│ ├── js/
-│ │ └── main.js
-│ ├── overlays/
-│ │ └── [PNG картинки]
-│ └── uploads/
-│ └── [створені користувачами зображення]
-│
-└── README.md
-
-
----
-
 ## Інсталяція та запуск
 
 1. **Клонувати репозиторій або скопіювати файли у робочу папку веб-сервера.**
